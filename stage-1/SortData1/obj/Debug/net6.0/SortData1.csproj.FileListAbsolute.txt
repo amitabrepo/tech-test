@@ -1,0 +1,17 @@
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\SortData1.exe
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\SortData1.deps.json
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\SortData1.runtimeconfig.json
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\SortData1.dll
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\SortData1.pdb
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.csproj.AssemblyReference.cache
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.AssemblyInfoInputs.cache
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.AssemblyInfo.cs
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.csproj.CoreCompileInputs.cache
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.dll
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\refint\SortData1.dll
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.pdb
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\SortData1.genruntimeconfig.cache
+C:\Amit\Work\10-POC\SortData1\obj\Debug\net6.0\ref\SortData1.dll
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\InputData\Data.txt
+C:\Amit\Work\10-POC\SortData1\bin\Debug\net6.0\OutputData\OutputData.txt
